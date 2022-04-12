@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T08:15:32.099Z" agent="5.0 (Macintosh)" etag="l2OwlrO-aB2GilC-IMpQ" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T08:35:17.805Z" agent="5.0 (Macintosh)" etag="opB7wv-EYsp1Dzn8pJc5" version="17.1.2" type="github">
   <diagram id="9iicNqLjTgSFbM0R_M5p" name="Page-1">
     <mxGraphModel dx="897" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,20 +15,40 @@
         <mxCell id="xqL_ju_NUXoOP8jmxpZU-1" value="&lt;div&gt;Autobackup&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Main backup process&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="xqL_ju_NUXoOP8jmxpZU-6" target="xqL_ju_NUXoOP8jmxpZU-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xqL_ju_NUXoOP8jmxpZU-6" value="Account onboarding" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="220" width="120" height="80" as="geometry" />
+          <mxGeometry x="70" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xqL_ju_NUXoOP8jmxpZU-13" value="Protected account" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="90" height="80" as="geometry" />
+          <mxGeometry x="320" y="150" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xqL_ju_NUXoOP8jmxpZU-14" value="Vault account" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="90" height="80" as="geometry" />
+          <mxGeometry x="320" y="270" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xqL_ju_NUXoOP8jmxpZU-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="190" y="200" width="130" height="120" as="geometry" />
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-15" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xqL_ju_NUXoOP8jmxpZU-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="410" y="200" width="130" height="120" as="geometry" />
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="xqL_ju_NUXoOP8jmxpZU-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-17" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-19" value="Scan" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="520" y="230" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-22" value="" style="whiteSpace=wrap;html=1;align=left;strokeWidth=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-27" value="Configuration" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
