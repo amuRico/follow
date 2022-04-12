@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T10:23:01.745Z" agent="5.0 (Macintosh)" etag="6eOn6Csu-8IZLqi3KaRY" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T13:51:16.924Z" agent="5.0 (Macintosh)" etag="5Rb-JqGUeZonr4ZkRxkk" version="17.1.2" type="github">
   <diagram id="9iicNqLjTgSFbM0R_M5p" name="Page-1">
-    <mxGraphModel dx="897" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1631" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
           <mxGeometry x="190" y="190" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xqL_ju_NUXoOP8jmxpZU-19" value="Scan" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="620" y="170" width="60" height="20" as="geometry" />
+          <mxGeometry x="650" y="220" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xqL_ju_NUXoOP8jmxpZU-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="xqL_ju_NUXoOP8jmxpZU-27" target="xqL_ju_NUXoOP8jmxpZU-45">
           <mxGeometry relative="1" as="geometry" />
@@ -40,13 +40,16 @@
           <mxGeometry x="70" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xqL_ju_NUXoOP8jmxpZU-32" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="190" y="480" width="130" height="120" as="geometry" />
+          <mxGeometry x="190" y="420" width="130" height="190" as="geometry" />
         </mxCell>
         <mxCell id="xqL_ju_NUXoOP8jmxpZU-33" value="Backup Policy" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="320" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="xqL_ju_NUXoOP8jmxpZU-34" target="xqL_ju_NUXoOP8jmxpZU-96">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xqL_ju_NUXoOP8jmxpZU-34" value="&lt;div&gt;Backup Setup&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="310" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xqL_ju_NUXoOP8jmxpZU-37" value="contains resources to protect" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="475" y="160" width="120" height="60" as="geometry" />
@@ -66,23 +69,64 @@
             <mxPoint x="475" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xqL_ju_NUXoOP8jmxpZU-45" value="Backup Event " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="xqL_ju_NUXoOP8jmxpZU-45" target="xqL_ju_NUXoOP8jmxpZU-98">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xqL_ju_NUXoOP8jmxpZU-47" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="749.5" as="sourcePoint" />
-            <mxPoint x="255" y="749.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-45" value="Resource Page" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xqL_ju_NUXoOP8jmxpZU-48" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="440" y="540" width="80" height="120" as="geometry" />
+          <mxGeometry x="440" y="550" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="xqL_ju_NUXoOP8jmxpZU-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xqL_ju_NUXoOP8jmxpZU-49" value="RPO (Recovery Point Objective): how frequently backup is made" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="520" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xqL_ju_NUXoOP8jmxpZU-50" value="&lt;div&gt;Retention&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="520" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-50" value="&lt;div&gt;Retention&lt;/div&gt;: how long snapshot is kept" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="520" y="642.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-88" value="Policy name&lt;br&gt;Snapshot frequency*&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;Hours / Days / Weeks / Months&lt;br&gt;Primary snapshot condition: Time in days / Quantity&lt;br&gt;Primary snapshot threshold: How many/long the primary snapshot is being stored.&lt;br&gt;Replica snapshot condition: Time in days / Quantity&lt;br&gt;Replica snapshot threshold: How many/long the replica snapshot is being stored." style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="497.5" width="440" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-90" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="595" y="190" width="85" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-93" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="250" as="sourcePoint" />
+            <mxPoint x="720" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-94" value="Finish Account Onboarding" style="whiteSpace=wrap;html=1;align=left;strokeWidth=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="220" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-96" value="Setup name:&amp;nbsp;&amp;nbsp;&amp;nbsp; Name of a setup.&lt;br&gt;Resource type: Type of resource you want to create a setup for.&lt;br&gt;Prehook:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; AWS Lambda or HTTP endpoint which will be called before a backup attempt.&lt;br&gt;Posthook:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; AWS Lambda or HTTP endpoint which will be called after a backup attempt." style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="500" y="390" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="xqL_ju_NUXoOP8jmxpZU-98" target="xqL_ju_NUXoOP8jmxpZU-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-98" value="Resource list" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="xqL_ju_NUXoOP8jmxpZU-100" target="xqL_ju_NUXoOP8jmxpZU-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-100" value="Change Policy and/or Setup" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="xqL_ju_NUXoOP8jmxpZU-104" target="xqL_ju_NUXoOP8jmxpZU-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-104" value="Select and Apply Policies and Setups" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqL_ju_NUXoOP8jmxpZU-106" value="Enable Backup" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
