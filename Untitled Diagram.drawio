@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T04:20:56.300Z" agent="5.0 (Macintosh)" etag="rNcq-6zxOdcZIWbm_mDN" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T04:33:47.300Z" agent="5.0 (Macintosh)" etag="TeyRqg1VV-C4Yoo3ssL4" version="20.2.2" type="github">
   <diagram id="PuQnvn29BVy2Np9aTlQ6" name="Page-1">
     <mxGraphModel dx="1191" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="wzGeyBrV-l04SElcSdZf-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzGeyBrV-l04SElcSdZf-2" target="wzGeyBrV-l04SElcSdZf-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wzGeyBrV-l04SElcSdZf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wzGeyBrV-l04SElcSdZf-2" value="&amp;nbsp;Account onboarding&lt;br&gt;&lt;i&gt;Accounts page&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="209" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wzGeyBrV-l04SElcSdZf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzGeyBrV-l04SElcSdZf-3" target="wzGeyBrV-l04SElcSdZf-4">
@@ -25,7 +25,7 @@
         <mxCell id="wzGeyBrV-l04SElcSdZf-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzGeyBrV-l04SElcSdZf-3" target="wzGeyBrV-l04SElcSdZf-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wzGeyBrV-l04SElcSdZf-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wzGeyBrV-l04SElcSdZf-3" value="Backup Plan&lt;br&gt;Settings page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="446" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wzGeyBrV-l04SElcSdZf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzGeyBrV-l04SElcSdZf-4" target="wzGeyBrV-l04SElcSdZf-6">
@@ -58,13 +58,13 @@
         <mxCell id="wzGeyBrV-l04SElcSdZf-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzGeyBrV-l04SElcSdZf-9" target="wzGeyBrV-l04SElcSdZf-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wzGeyBrV-l04SElcSdZf-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wzGeyBrV-l04SElcSdZf-9" value="Backup Setup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="382" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wzGeyBrV-l04SElcSdZf-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzGeyBrV-l04SElcSdZf-10" target="wzGeyBrV-l04SElcSdZf-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wzGeyBrV-l04SElcSdZf-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wzGeyBrV-l04SElcSdZf-10" value="Backup Policy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wzGeyBrV-l04SElcSdZf-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -76,22 +76,22 @@
         <mxCell id="wzGeyBrV-l04SElcSdZf-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzGeyBrV-l04SElcSdZf-22" target="wzGeyBrV-l04SElcSdZf-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wzGeyBrV-l04SElcSdZf-22" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="150" width="80" height="80" as="geometry" />
+        <mxCell id="wzGeyBrV-l04SElcSdZf-22" value="Protected account" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wzGeyBrV-l04SElcSdZf-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzGeyBrV-l04SElcSdZf-23" target="wzGeyBrV-l04SElcSdZf-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wzGeyBrV-l04SElcSdZf-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="250" width="80" height="80" as="geometry" />
+        <mxCell id="wzGeyBrV-l04SElcSdZf-23" value="&lt;div&gt;Vault &lt;br&gt;&lt;/div&gt;&lt;div&gt;account&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wzGeyBrV-l04SElcSdZf-27" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="269" y="189" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wzGeyBrV-l04SElcSdZf-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wzGeyBrV-l04SElcSdZf-29" value="contains resources to protect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wzGeyBrV-l04SElcSdZf-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wzGeyBrV-l04SElcSdZf-30" value="&lt;div&gt;only for storing backup replicas, &lt;br&gt;&lt;/div&gt;&lt;div&gt;won’t be backed up&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wzGeyBrV-l04SElcSdZf-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzGeyBrV-l04SElcSdZf-33" target="wzGeyBrV-l04SElcSdZf-34">
@@ -103,35 +103,38 @@
         <mxCell id="wzGeyBrV-l04SElcSdZf-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzGeyBrV-l04SElcSdZf-34" target="wzGeyBrV-l04SElcSdZf-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wzGeyBrV-l04SElcSdZf-34" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="209" width="120" height="60" as="geometry" />
+        <mxCell id="wzGeyBrV-l04SElcSdZf-34" value="AWS account - download Role definition yaml file - Cloudformation- create slack-upload the Role file" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="209" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wzGeyBrV-l04SElcSdZf-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="209" width="120" height="60" as="geometry" />
+        <mxCell id="wzGeyBrV-l04SElcSdZf-36" value="Finish Account Onboarding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="209" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wzGeyBrV-l04SElcSdZf-38" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="269" y="410" width="50" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="wzGeyBrV-l04SElcSdZf-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="382" width="120" height="60" as="geometry" />
+        <mxCell id="wzGeyBrV-l04SElcSdZf-40" value="Setup name: Name of a setup.&lt;br&gt;Resource type: Type of resource you want to create a setup for.&lt;br&gt;&lt;div&gt;Prehook: AWS Lambda or HTTP endpoint which will be called before a backup attempt. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Posthook: AWS Lambda or HTTP endpoint which will be called after a backup attempt.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="382" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wzGeyBrV-l04SElcSdZf-42" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="490" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wzGeyBrV-l04SElcSdZf-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="wzGeyBrV-l04SElcSdZf-45" value="RPO (Recovery Point Objective): how frequently backup is made" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="460" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wzGeyBrV-l04SElcSdZf-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="wzGeyBrV-l04SElcSdZf-46" value="&lt;div&gt;Retention:&lt;/div&gt;&lt;div&gt; how long snapshot is kept&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="560" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wzGeyBrV-l04SElcSdZf-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzGeyBrV-l04SElcSdZf-47" target="wzGeyBrV-l04SElcSdZf-48">
+        <mxCell id="wzGeyBrV-l04SElcSdZf-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzGeyBrV-l04SElcSdZf-47" target="wzGeyBrV-l04SElcSdZf-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wzGeyBrV-l04SElcSdZf-47" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="660" y="490" width="50" height="100" as="geometry" />
+          <mxGeometry x="730" y="490" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wzGeyBrV-l04SElcSdZf-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="wzGeyBrV-l04SElcSdZf-48" value="Policy name&lt;br&gt;Snapshot frequency* Hours / Days / Weeks / Months&lt;br&gt;Primary snapshot condition: Time in days / Quantity&lt;br&gt;&lt;div&gt;Primary snapshot threshold: How many/long the primary snapshot is being stored. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Replica snapshot condition: Time in days / Quantity&lt;/div&gt;Replica snapshot threshold: How many/long the replica snapshot is being stored." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="826" y="480" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wzGeyBrV-l04SElcSdZf-50" value="Scan" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="190" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
